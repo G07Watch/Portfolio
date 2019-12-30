@@ -3902,3 +3902,7 @@
 [class*=" devicon-"], [class^=devicon-] {
 	font-size: 40px;
 }
+
+#cta textarea{
+	max-height: 150px;
+}
