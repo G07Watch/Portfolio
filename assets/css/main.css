@@ -3906,3 +3906,9 @@
 #cta textarea{
 	max-height: 150px;
 }
+
+#profile-pic{
+	width: 50%;
+	height: 50%;
+	margin: auto;
+}
